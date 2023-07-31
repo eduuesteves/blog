@@ -31,7 +31,7 @@ export function App() {
             Talvez a ideia não seja tão maluca, mas decidi criar um blog simples, só para detalhar o
             que estou fazendo sem depender de um site terceirizado.
           </p>
-          <p>Nessa primeira versão será apenas um texto simples num páguna estática.</p>
+          <p>Nessa primeira versão será apenas um texto simples num página estática.</p>
           <p>
             Inicialmente, os projetos serão básicos e conforme for sendo necessário, irei
             implementando mais funcionalidades.
